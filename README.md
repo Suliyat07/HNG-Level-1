@@ -97,3 +97,6 @@ function seconds() {
 }
 // An interval to update the seconds every 1000 seconds
 setInterval(seconds, 1000);
+
+
+suliyat.jpg
